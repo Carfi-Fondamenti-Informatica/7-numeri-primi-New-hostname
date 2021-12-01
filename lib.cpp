@@ -12,7 +12,7 @@ bool primo(int n, int c)
   }
   else
   {
-    c++
+    c++;
     
     if(c == n)
     {
