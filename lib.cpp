@@ -2,6 +2,10 @@
 
 bool primo(int n, int c)
 {
+  if(n == 2)
+  {
+    return true;
+  }
   if(n == 1)
   {
     return false;
